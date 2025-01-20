@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋</h1>
-<h3 align="center">I'm a software engineering student from Mexico</h3>
+<h3 align="center">I am a software engineering student with an interest in mobile and desktop application development, cybersecurity, quality assurance, and the integration of emerging technologies such as artificial intelligence and IoT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltlachy&label=Profile%20views&color=0e75b6&style=flat" alt="danieltlachy" /> </p>
 
